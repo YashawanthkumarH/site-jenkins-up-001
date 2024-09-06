@@ -3,6 +3,7 @@ web_docroot: true
 php_version: 7.4
 
 # See https://pantheon.io/docs/pantheon-yml#specify-a-version-of-mariadb
+# Checking Patch build triggered in CI
 database:
   version: 10.4
 
